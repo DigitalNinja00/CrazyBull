@@ -1,0 +1,14 @@
+ ,           ,
+   /             \
+  ((__-^^-,-^^-__))
+   `-_---' `---_-'
+    <__|o` 'o|__>
+       \  `  /
+        ): :(
+        :o_o:
+         "-"   [CrazyBull]
+               version : 1.0.1
+[*] Tomate un cafe, esto durará un rato
+[+] Se guardara un fichero con todas las url ("./log.txt")
+
+
